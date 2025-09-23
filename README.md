@@ -1,6 +1,7 @@
 
 # Ciao!👋
 
+This is Federico Giorgi, from Italy 🇮🇹
 
 ## 🚀 About Me
 
