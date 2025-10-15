@@ -10,7 +10,7 @@ This is Federico Giorgi, from Italy 🇮🇹
 - 🤖 **Focus**: Machine Learning & Optimization
 - 💼 **Career Interests:** ML Engineering & Data Scientist
 - 🌍 **Location:** New York City, 🇺🇸
-
+- 🌐 **Have a look to my [website](https://fede-giorgi.github.io/)!**
 
 ---
 
