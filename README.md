@@ -17,6 +17,7 @@ This is Federico Giorgi, from Italy 🇮🇹
 ## 📂 Featured Projects
 | Project | Brief | Stack |
 |---------|-------|-------|
+| **[Tiny Shakespeare Transformer](https://github.com/fede-giorgi/Transformer_is_All_You_Need)** | Minimal Transformer LM trained on Tiny Shakespeare, with causal self-attention, positional encodings, BPE tokenizer, and text generation [Columbia Project] | Python, PyTorch, HuggingFace Tokenizers |
 | **[Bank Marketing Ensemble](https://github.com/fede-giorgi/Bank-Marketing-Ensemble)**  | Ensembles and boosting models applied to the Bank Marketing dataset to study bias–variance and class imbalance [Columbia Project] | Python, scikit-learn, XGBoost, LightGBM, imbalanced-learn |
 | **[Continuous Bag-of-Words (CBOW)](https://github.com/fede-giorgi/Continuous-Bag-of-Words-CBOW)** | PyTorch implementation of the Continuous Bag-of-Words (CBOW) model built entirely from scratch. [Columbia Project] | Python, PyTorch |
 | **[Battery-Arbitrage](https://github.com/fede-giorgi/Battery-Arbitrage)** | MILP-based optimization of battery energy arbitrage on Italian PUN prices [BS thesis @ Bocconi with Axpo Italia] | Python, SciPy, MILP |
