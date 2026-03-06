@@ -1,18 +1,25 @@
+# 👋 Ciao! I'm Federico Giorgi
 
-# Ciao!👋
-
-This is Federico Giorgi, from Italy 🇮🇹
+I am a Data Scientist and ML Engineer from Italy 🇮🇹, currently based in NYC. 
 
 ## 🚀 About Me
 
-- 🎓 **MS** in **Data Science** @ *Columbia University*
-- 📚 **BS** in CS & Econ @ *Bocconi University* (110/110)
-- 🤖 **Focus**: Machine Learning & Optimization
-- 💼 **Career Interests:** ML Engineering & Data Scientist
-- 🌍 **Location:** New York City, 🇺🇸
-- 🌐 **Have a look to my [website](https://fede-giorgi.github.io/)!**
+- 🎓 **MS in Data Science** @ *Columbia University*
+- 📚 **BS in CS & Economics** @ *Bocconi University* (110/110)
+- 🤖 **Focus:** Deep Learning, NLP & Operations Research
+- 💼 **Career Interests:** ML Engineer, Data Scientist, Quantitative Researcher
+- 🌍 **Location:** New York City, NY 🇺🇸
+- 📬 **Connect:** [LinkedIn](https://www.linkedin.com/in/fede-giorgi/) | [Website](https://fede-giorgi.github.io/) | [Email](mailto:fg2617@columbia.edu)
 
 ---
+
+## 🔭 Recently I've been working on...
+
+- **[AI-Agent-Driven-Hedge-Fund](https://github.com/fede-giorgi/AI-Agent-Driven-Hedge-Fund):** Building an autonomous AI agent framework designed to simulate a hedge fund, taking trading decisions based on market data and signals. *(Python, LLMs, LangChain)*
+- **[mistral-vibe](https://github.com/fede-giorgi/mistral-vibe):** Experimenting with and forking Mistral's minimal CLI coding agent to explore lightweight agentic workflows.
+
+---
+
 
 ## 📂 Featured Projects
 | Project | Brief | Stack |
