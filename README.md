@@ -15,7 +15,7 @@ Combining a solid foundation in Economics with advanced Computer Science and Mac
 
 ## 🔭 Recently I've been working on...
 
-- 🏥 **NEISS ED Presentations Trends (Private Clinical Research):** Analyzing 21 years of big data from the National Electronic Injury Surveillance System to identify poisoning trends related to supplements. Working alongside Columbia CUMC to publish a medical epidemiology paper. *(Big Data, Classification, Data Visualization)*
+- 🏥 **NEISS ED Presentations Trends:** Analyzing 21 years of big data from the National Electronic Injury Surveillance System to identify poisoning trends related to supplements. Working alongside Columbia CUMC to publish a medical epidemiology paper. *(Big Data, Classification, Data Visualization)*
 - ⚡ **[Forecasting-Electricity](https://github.com/lucabarattini/forecasting-electricity):** End-to-end time-series ML pipeline to forecast electricity consumption across 370 clients, leveraging clustering and advanced Meta Prophet models (Columbia IEOR 4578). *(Python, Prophet, Time-Series)*
 - 👁️ **[CV-Iris-Recognition](https://github.com/AroraS13/CVGroupProjectIrisRecognition):** Computer Vision pipeline implementing the classic iris recognition algorithm by Ma et al., 2003 (Columbia CV Spring 2026). *(Python, Computer Vision)*
 - 🛡️ **[Wardstral (mistral-vibe fork)](https://github.com/fede-giorgi/mistral-vibe):** Built during the **Mistral AI Worldwide Hackathon 2026**. A Dual-Agent CLI pipeline that enforces custom security policies on PRs using a fine-tuned model and automated patch streaming. *(Python, LLMs, Fine-Tuning, W&B)*
