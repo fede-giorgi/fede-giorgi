@@ -9,7 +9,7 @@ Combining a solid foundation in Economics with advanced Computer Science and Mac
 - 🤖 **Focus:** Deep Learning, NLP, AI Agents & Operations Research
 - 💼 **Career Interests:** ML Engineer, Data Scientist, Quantitative Researcher
 - 🌍 **Location:** New York City, NY 🇺🇸
-- 📬 **Connect:** [LinkedIn](INSERISCI_LINK) | [Website](https://fede-giorgi.github.io/) | [Email](mailto:TUO_EMAIL)
+- 📬 **Connect:** [LinkedIn](https://www.linkedin.com/in/fede-giorgi/) | [Website](https://fede-giorgi.github.io/) | [Email](mailto:TUO_EMAIL)
 
 ---
 
